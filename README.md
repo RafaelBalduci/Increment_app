@@ -1,4 +1,4 @@
-# This project is a simple imcrement app
+# This project is a simple increment app
 
 Quick start:
 
