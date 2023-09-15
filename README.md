@@ -3,9 +3,8 @@
 Quick start:
 
 ```
-Copy the link bellow and open it on Chrome
-
-scintillating-choux-663d97.netlify.app
+$ npm install
+$ npm start
 ````
 
-
+Then copy the localhost link created and open it on Chrome.
